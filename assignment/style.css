@@ -1,0 +1,35 @@
+
+header{
+background-color:#113f67;
+color:#a2a8d3;  
+text-align: center;
+padding-top: 10px;
+padding-bottom: 5px;
+border-radius: 100vw;
+line-height: 2;
+}
+
+.RecordShop{
+  text-transform:uppercase;
+   color: #e7eaf6;
+   
+}
+.cool{
+  text-align: center; 
+  font-family: verdana;
+}
+
+main{
+  background-color: lightgray;
+  padding: 1em;
+
+      }
+          
+body{
+  
+  background-image: url('../assignment/record.png');
+  margin: 0px;
+  background-size: 20% 50%;
+  
+  
+}
